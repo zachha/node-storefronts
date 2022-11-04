@@ -1,4 +1,4 @@
-# node-storefront
+# node-storefronts
 
 node-storefront is a node.js CLI application linked to a mySQL database.  The application keeps an inventory of various items and departments. The application includes three user interfaces that each contain seperate commands:
 
