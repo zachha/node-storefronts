@@ -1,0 +1,26 @@
+{
+  "name": "storefront",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zachha/node-storefront.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zachha/node-storefront/issues"
+  },
+  "homepage": "https://github.com/zachha/node-storefront#readme",
+  "dependencies": {
+    "cli-table": "^0.3.1",
+    "colors.js": "^1.2.4",
+    "dotenv": "^16.0.3",
+    "inquirer": "^5.1.0",
+    "mysql": "^2.15.0"
+  }
+}
