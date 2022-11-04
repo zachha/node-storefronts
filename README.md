@@ -73,7 +73,7 @@ node-storefront requires the following npm packages:
 npm install mysql inquirer cli-table
 ```
 
-once installed, run one of the three user interfaces for the application:
+Once installed, you will have to enter your mysql username and password into each of the three files. Then run one of the three user interfaces for the application:
 
 ```
 node storefrontCustomer
